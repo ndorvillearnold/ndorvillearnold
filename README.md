@@ -1,5 +1,10 @@
 - 👋 Hi, I am Naomy
 
+
+<!-- ![NaomyArnold](https://github.com/Naomy-Arnold/Naomy-Arnold/blob/main/BlackModernBanner.gif) -->
+<img align="center" src="https://github.com/Naomy-Arnold/Naomy-Arnold/blob/main/BlackModernBanner.gif" width="850" />
+     
+     
 ### Technologies  👀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -9,6 +14,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
 
 
 - 💞️ I’m looking to collaborate on different projects.
